@@ -1,0 +1,57 @@
+body{
+	background-image: url("IMG/paw.jpg");
+	margin: 0;
+	font-family: Arial;	
+	align-items: center;
+
+}
+ul{
+    text-align:center;
+}
+li
+{
+	font-style: bold;
+	display: inline;
+	margin:5%;
+}
+li:hover{
+	font-style: initial;
+	display: inline;
+	margin:5%;
+	padding:;
+	border-bottom: solid 40px brown;
+}
+
+.kss
+{
+	background-color: royalblue;
+	padding: 1.5%;
+}
+.fid
+{
+	text-align: center;
+	background-color: royalblue;
+	border-radius: 50px;
+	margin: 1% 15%;
+	padding: 50px 50px;
+}
+footer
+{
+	text-align: center;
+	background-color: royalblue;
+	padding: 1.5%;
+}
+.post-list.with-excerpt {
+	column-count: 2;
+	column-gap: 3em;
+	column-rule: 1px dotted #666;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 3em;
+	-webkit-column-rule: 1px dotted #666;
+	-moz-column-count: 2;
+	-moz-column-gap: 3em;
+	-moz-column-rule: 1px dotted #666;
+	-o-column-count: 2;
+	-o-column-gap: 3em;
+	-o-column-rule: 1px dotted #666;
+}
