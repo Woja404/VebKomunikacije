@@ -1,6 +1,0 @@
-Disallow: /IMG/
-Disallow: onama.html
-Disallow: stylesheet.css
-Disallow: udomiodma.html
-
-Sitemap: https://woja404.github.io/VebKomunikacije/sitemap.xml
